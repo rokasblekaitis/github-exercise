@@ -1,3 +1,6 @@
 pica
 sushi
 burgir
+pulp
+bat
+zoro
